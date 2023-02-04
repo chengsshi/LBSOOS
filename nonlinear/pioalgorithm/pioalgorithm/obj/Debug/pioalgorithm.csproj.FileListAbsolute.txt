@@ -1,0 +1,8 @@
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\pioalgorithm\pioalgorithm\obj\Debug\pioalgorithm.csproj.AssemblyReference.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\pioalgorithm\pioalgorithm\obj\Debug\pioalgorithm.csproj.SuggestedBindingRedirects.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\pioalgorithm\pioalgorithm\obj\Debug\pioalgorithm.csproj.CoreCompileInputs.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\pioalgorithm\pioalgorithm\bin\Debug\pioalgorithm.exe.config
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\pioalgorithm\pioalgorithm\bin\Debug\pioalgorithm.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\pioalgorithm\pioalgorithm\bin\Debug\pioalgorithm.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\pioalgorithm\pioalgorithm\obj\Debug\pioalgorithm.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\pioalgorithm\pioalgorithm\obj\Debug\pioalgorithm.pdb

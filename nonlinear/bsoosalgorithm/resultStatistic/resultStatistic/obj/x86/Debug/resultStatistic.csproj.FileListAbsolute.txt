@@ -1,0 +1,23 @@
+D:\programme\optimization\brainStorm\brainStorm\statistic\statistic\bin\Debug\resultStatistic.exe.config
+D:\programme\optimization\brainStorm\brainStorm\resultStatiStic\resultStatistic\bin\Debug\resultStatistic.exe.config
+D:\programme\optimization\brainStorm\brainStorm\resultStatiStic\resultStatistic\bin\Debug\resultStatistic.exe
+D:\programme\optimization\brainStorm\brainStorm\resultStatiStic\resultStatistic\bin\Debug\resultStatistic.pdb
+D:\programme\optimization\brainStorm\brainStorm\resultStatiStic\resultStatistic\obj\x86\Debug\resultStatistic.csprojResolveAssemblyReference.cache
+D:\programme\optimization\brainStorm\brainStorm\resultStatiStic\resultStatistic\obj\x86\Debug\resultStatistic.exe
+D:\programme\optimization\brainStorm\brainStorm\resultStatiStic\resultStatistic\obj\x86\Debug\resultStatistic.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoalgorithm\resultStatistic\resultStatistic\bin\Debug\resultStatistic.exe.config
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoalgorithm\resultStatistic\resultStatistic\bin\Debug\resultStatistic.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoalgorithm\resultStatistic\resultStatistic\bin\Debug\resultStatistic.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoalgorithm\resultStatistic\resultStatistic\obj\x86\Debug\resultStatistic.csproj.AssemblyReference.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoalgorithm\resultStatistic\resultStatistic\obj\x86\Debug\resultStatistic.csproj.SuggestedBindingRedirects.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoalgorithm\resultStatistic\resultStatistic\obj\x86\Debug\resultStatistic.csproj.CoreCompileInputs.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoalgorithm\resultStatistic\resultStatistic\obj\x86\Debug\resultStatistic.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoalgorithm\resultStatistic\resultStatistic\obj\x86\Debug\resultStatistic.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\resultStatistic\resultStatistic\bin\Debug\resultStatistic.exe.config
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\resultStatistic\resultStatistic\bin\Debug\resultStatistic.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\resultStatistic\resultStatistic\bin\Debug\resultStatistic.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\resultStatistic\resultStatistic\obj\x86\Debug\resultStatistic.csproj.AssemblyReference.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\resultStatistic\resultStatistic\obj\x86\Debug\resultStatistic.csproj.SuggestedBindingRedirects.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\resultStatistic\resultStatistic\obj\x86\Debug\resultStatistic.csproj.CoreCompileInputs.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\resultStatistic\resultStatistic\obj\x86\Debug\resultStatistic.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\resultStatistic\resultStatistic\obj\x86\Debug\resultStatistic.pdb

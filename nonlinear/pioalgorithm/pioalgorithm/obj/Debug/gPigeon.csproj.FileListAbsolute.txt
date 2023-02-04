@@ -1,0 +1,7 @@
+E:\OneDrive\Desktop\gPigeon\gPigeon\bin\Debug\gPigeon.exe.config
+E:\OneDrive\Desktop\gPigeon\gPigeon\bin\Debug\gPigeon.exe
+E:\OneDrive\Desktop\gPigeon\gPigeon\bin\Debug\gPigeon.pdb
+E:\OneDrive\Desktop\gPigeon\gPigeon\obj\Debug\gPigeon.csprojAssemblyReference.cache
+E:\OneDrive\Desktop\gPigeon\gPigeon\obj\Debug\gPigeon.csproj.CoreCompileInputs.cache
+E:\OneDrive\Desktop\gPigeon\gPigeon\obj\Debug\gPigeon.exe
+E:\OneDrive\Desktop\gPigeon\gPigeon\obj\Debug\gPigeon.pdb

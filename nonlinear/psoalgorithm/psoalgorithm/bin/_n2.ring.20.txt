@@ -1,0 +1,59 @@
+n2 fitness[ring] 0.000976162573369552, run 0
+n2 fitness[ring] 0.000945334698367369, run 1
+n2 fitness[ring] 0.00342148223576617, run 2
+n2 fitness[ring] 0.00581777664447527, run 3
+n2 fitness[ring] 0.00351803765593056, run 4
+n2 fitness[ring] 0.00284323620542867, run 5
+n2 fitness[ring] 0.000757305005178786, run 6
+n2 fitness[ring] 0.00165242739799779, run 7
+n2 fitness[ring] 0.00300703948985654, run 8
+n2 fitness[ring] 0.00198015100417617, run 9
+n2 fitness[ring] 0.00293385389876523, run 10
+n2 fitness[ring] 0.00264780261478811, run 11
+n2 fitness[ring] 0.00150227959211794, run 12
+n2 fitness[ring] 0.00556956141814606, run 13
+n2 fitness[ring] 0.00227058427321273, run 14
+n2 fitness[ring] 0.00112204994269625, run 15
+n2 fitness[ring] 0.00174320307081136, run 16
+n2 fitness[ring] 0.000651294045155246, run 17
+n2 fitness[ring] 0.00125871938443623, run 18
+n2 fitness[ring] 0.00568301212497284, run 19
+n2 fitness[ring] 0.00262210563160027, run 20
+n2 fitness[ring] 0.00167184284482587, run 21
+n2 fitness[ring] 0.000619858662765203, run 22
+n2 fitness[ring] 0.00348399889286886, run 23
+n2 fitness[ring] 0.00188470200997615, run 24
+n2 fitness[ring] 0.00208898688519146, run 25
+n2 fitness[ring] 0.00196653766253387, run 26
+n2 fitness[ring] 0.00106867502908239, run 27
+n2 fitness[ring] 0.0017582976561298, run 28
+n2 fitness[ring] 0.00224431315244551, run 29
+n2 fitness[ring] 0.00373630175949937, run 30
+n2 fitness[ring] 0.0020982657548231, run 31
+n2 fitness[ring] 0.00203985884568722, run 32
+n2 fitness[ring] 0.00355172931782876, run 33
+n2 fitness[ring] 0.000998722953028703, run 34
+n2 fitness[ring] 0.00101960800578999, run 35
+n2 fitness[ring] 0.00254403577296706, run 36
+n2 fitness[ring] 0.00124456708060902, run 37
+n2 fitness[ring] 0.00371336771531953, run 38
+n2 fitness[ring] 0.00436854242588967, run 39
+n2 fitness[ring] 0.00512199169555222, run 40
+n2 fitness[ring] 0.00256237450829211, run 41
+n2 fitness[ring] 0.0023082465477928, run 42
+n2 fitness[ring] 0.00139404897958681, run 43
+n2 fitness[ring] 0.00237699779208338, run 44
+n2 fitness[ring] 0.00297800975105884, run 45
+n2 fitness[ring] 0.00563382352655322, run 46
+n2 fitness[ring] 0.00260493736941129, run 47
+n2 fitness[ring] 0.001992394949381, run 48
+n2 fitness[ring] 0.00258602600247463, run 49
+n2 ring count2 91
+n2 ring count4 0
+n2 50 runs, local ring best fitness 0.000619858662765203
+n2 50 runs, local ring middle fitness 0.00227058427321273
+n2 50 runs, local ring worst fitness 0.00581777664447527
+n2 50 runs, local ring best mean 0.00249168964913394
+n2 50 runs, variance 1.82890920551099E-06
+n2 50 runs, standard deviation 0.00135237169650617
+

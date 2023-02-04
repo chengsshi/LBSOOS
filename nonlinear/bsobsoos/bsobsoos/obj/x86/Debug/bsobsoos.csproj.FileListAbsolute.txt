@@ -1,0 +1,8 @@
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsobsoos\bsobsoos\obj\x86\Debug\bsobsoos.csproj.AssemblyReference.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsobsoos\bsobsoos\obj\x86\Debug\bsobsoos.csproj.SuggestedBindingRedirects.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsobsoos\bsobsoos\obj\x86\Debug\bsobsoos.csproj.CoreCompileInputs.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsobsoos\bsobsoos\obj\x86\Debug\LBSO.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsobsoos\bsobsoos\obj\x86\Debug\LBSO.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsobsoos\bsobsoos\bin\Debug\LBSO.exe.config
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsobsoos\bsobsoos\bin\Debug\LBSO.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsobsoos\bsobsoos\bin\Debug\LBSO.pdb

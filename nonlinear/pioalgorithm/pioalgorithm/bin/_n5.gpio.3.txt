@@ -1,0 +1,59 @@
+n5 fitness[gpio] 0, run 0
+n5 fitness[gpio] 2.97817326355698E-14, run 1
+n5 fitness[gpio] 0, run 2
+n5 fitness[gpio] 0, run 3
+n5 fitness[gpio] 0, run 4
+n5 fitness[gpio] 4.37345552134483E-10, run 5
+n5 fitness[gpio] 0, run 6
+n5 fitness[gpio] 0, run 7
+n5 fitness[gpio] 8.02048205628125E-10, run 8
+n5 fitness[gpio] 0, run 9
+n5 fitness[gpio] 1.36636831260528E-06, run 10
+n5 fitness[gpio] 0, run 11
+n5 fitness[gpio] 0.00361320673574002, run 12
+n5 fitness[gpio] 6.51131167213326E-16, run 13
+n5 fitness[gpio] 0, run 14
+n5 fitness[gpio] 0, run 15
+n5 fitness[gpio] 0, run 16
+n5 fitness[gpio] 0, run 17
+n5 fitness[gpio] 0, run 18
+n5 fitness[gpio] 0, run 19
+n5 fitness[gpio] 0, run 20
+n5 fitness[gpio] 1.50608692184306E-14, run 21
+n5 fitness[gpio] 0, run 22
+n5 fitness[gpio] 1.52799897434996E-10, run 23
+n5 fitness[gpio] 0, run 24
+n5 fitness[gpio] 3.66373598126302E-15, run 25
+n5 fitness[gpio] 0, run 26
+n5 fitness[gpio] 4.99412118853959E-07, run 27
+n5 fitness[gpio] 0, run 28
+n5 fitness[gpio] 0, run 29
+n5 fitness[gpio] 0, run 30
+n5 fitness[gpio] 0, run 31
+n5 fitness[gpio] 0, run 32
+n5 fitness[gpio] 0, run 33
+n5 fitness[gpio] 0, run 34
+n5 fitness[gpio] 0, run 35
+n5 fitness[gpio] 0, run 36
+n5 fitness[gpio] 0, run 37
+n5 fitness[gpio] 0, run 38
+n5 fitness[gpio] 0, run 39
+n5 fitness[gpio] 4.413136522885E-14, run 40
+n5 fitness[gpio] 0, run 41
+n5 fitness[gpio] 0, run 42
+n5 fitness[gpio] 1.38777878078145E-17, run 43
+n5 fitness[gpio] 5.69477324173853E-06, run 44
+n5 fitness[gpio] 0, run 45
+n5 fitness[gpio] 0, run 46
+n5 fitness[gpio] 6.73954975776922E-08, run 47
+n5 fitness[gpio] 0, run 48
+n5 fitness[gpio] 0, run 49
+n5 gpio count2 50
+n5 gpio count4 49
+n5 gPIO best fitness 0
+n5 gPIO middle fitness 0
+n5 gPIO worst fitness 0.00361320673574002
+n5 50 runs, gPIO global best mean 7.2416721543955E-05
+n5 50 runs, variance 2.55861767771968E-07
+n5 50 runs, standard deviation 0.000505827804467062
+

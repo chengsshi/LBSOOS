@@ -1,0 +1,59 @@
+n7 fitness[star] 2.34542759068129E-05, run 0
+n7 fitness[star] 1.41012206933783E-06, run 1
+n7 fitness[star] 1.30331413026874E-07, run 2
+n7 fitness[star] 6.99388845706884E-05, run 3
+n7 fitness[star] 8.18390494907613E-06, run 4
+n7 fitness[star] 3.62439063991006E-05, run 5
+n7 fitness[star] 2.59381498506517E-06, run 6
+n7 fitness[star] 4.06461865947989E-08, run 7
+n7 fitness[star] 1.39427006117708E-07, run 8
+n7 fitness[star] 7.72108424567809E-05, run 9
+n7 fitness[star] 1.87204116142547E-05, run 10
+n7 fitness[star] 0.000158864733495827, run 11
+n7 fitness[star] 3.87124511723122E-05, run 12
+n7 fitness[star] 9.0219919082119E-07, run 13
+n7 fitness[star] 2.14055130858527E-05, run 14
+n7 fitness[star] 2.13263123299777E-05, run 15
+n7 fitness[star] 1.37150470630131E-05, run 16
+n7 fitness[star] 3.66453875432786E-05, run 17
+n7 fitness[star] 3.36068837621963E-06, run 18
+n7 fitness[star] 5.43209135269691E-05, run 19
+n7 fitness[star] 7.42149231648761E-07, run 20
+n7 fitness[star] 1.7167382476983E-05, run 21
+n7 fitness[star] 0.000231361710562857, run 22
+n7 fitness[star] 5.10908326394509E-07, run 23
+n7 fitness[star] 4.15619629087821E-05, run 24
+n7 fitness[star] 5.93627068552667E-06, run 25
+n7 fitness[star] 0.000126238273663766, run 26
+n7 fitness[star] 1.04081597380054E-06, run 27
+n7 fitness[star] 2.38900002292068E-05, run 28
+n7 fitness[star] 1.10575759659335E-08, run 29
+n7 fitness[star] 3.03768381109326E-06, run 30
+n7 fitness[star] 0.000108569081732283, run 31
+n7 fitness[star] 0.00011701254397254, run 32
+n7 fitness[star] 1.96385835040523E-06, run 33
+n7 fitness[star] 1.51182066508311E-05, run 34
+n7 fitness[star] 6.84742330375444E-05, run 35
+n7 fitness[star] 2.70992754084024E-08, run 36
+n7 fitness[star] 4.23729944157021E-05, run 37
+n7 fitness[star] 2.52003668868773E-08, run 38
+n7 fitness[star] 3.74061772815066E-06, run 39
+n7 fitness[star] 9.58292718480764E-05, run 40
+n7 fitness[star] 2.26225641378611E-06, run 41
+n7 fitness[star] 8.07927000072117E-06, run 42
+n7 fitness[star] 4.80983907200473E-06, run 43
+n7 fitness[star] 7.07552970538682E-06, run 44
+n7 fitness[star] 7.15841826250929E-07, run 45
+n7 fitness[star] 1.28300250750928E-05, run 46
+n7 fitness[star] 1.08753184224512E-05, run 47
+n7 fitness[star] 9.59592167961044E-06, run 48
+n7 fitness[star] 6.5456004762872E-06, run 49
+n7 star count2 521
+n7 star count4 34
+n7 star best fitness 1.10575759659335E-08
+n7 star middle fitness 1.08753184224512E-05
+n7 star worst fitness 0.000231361710562857
+n7 50 runs, global star best mean 3.10948147767314E-05
+n7 50 runs, variance 2.22001025278945E-09
+n7 50 runs, standard deviation 4.7116984759102E-05
+

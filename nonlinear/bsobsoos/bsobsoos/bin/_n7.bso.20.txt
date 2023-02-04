@@ -1,0 +1,59 @@
+n7 fitness[bso] 4.80944969534449E-06, runtime 0
+n7 fitness[bso] 2.31768293162264E-05, runtime 1
+n7 fitness[bso] 1.70729868502718E-05, runtime 2
+n7 fitness[bso] 1.59901957745613E-05, runtime 3
+n7 fitness[bso] 2.17855431838314E-05, runtime 4
+n7 fitness[bso] 1.37335834535037E-05, runtime 5
+n7 fitness[bso] 1.37775958247832E-05, runtime 6
+n7 fitness[bso] 1.57189333258214E-05, runtime 7
+n7 fitness[bso] 9.51529622521724E-06, runtime 8
+n7 fitness[bso] 4.92441352597758E-05, runtime 9
+n7 fitness[bso] 1.99768401230901E-05, runtime 10
+n7 fitness[bso] 3.04783569702276E-05, runtime 11
+n7 fitness[bso] 1.41909657628246E-05, runtime 12
+n7 fitness[bso] 1.31949153594155E-05, runtime 13
+n7 fitness[bso] 2.18003934505039E-05, runtime 14
+n7 fitness[bso] 1.22904896670917E-05, runtime 15
+n7 fitness[bso] 5.37948196044679E-05, runtime 16
+n7 fitness[bso] 2.53550204081625E-05, runtime 17
+n7 fitness[bso] 2.7274437372312E-05, runtime 18
+n7 fitness[bso] 4.18846792792252E-05, runtime 19
+n7 fitness[bso] 1.83945175697607E-05, runtime 20
+n7 fitness[bso] 9.99722196581082E-06, runtime 21
+n7 fitness[bso] 7.89282454519313E-06, runtime 22
+n7 fitness[bso] 1.4375192530256E-05, runtime 23
+n7 fitness[bso] 5.77499110121373E-06, runtime 24
+n7 fitness[bso] 6.48031252815365E-06, runtime 25
+n7 fitness[bso] 1.48569192693457E-05, runtime 26
+n7 fitness[bso] 1.80982113975486E-05, runtime 27
+n7 fitness[bso] 8.71430010681623E-06, runtime 28
+n7 fitness[bso] 1.20014283851691E-05, runtime 29
+n7 fitness[bso] 3.50835691477703E-05, runtime 30
+n7 fitness[bso] 3.10657201164668E-05, runtime 31
+n7 fitness[bso] 3.2120771007299E-05, runtime 32
+n7 fitness[bso] 9.9244333945634E-06, runtime 33
+n7 fitness[bso] 3.04876521811116E-05, runtime 34
+n7 fitness[bso] 2.5829959987462E-05, runtime 35
+n7 fitness[bso] 1.79774113464765E-05, runtime 36
+n7 fitness[bso] 7.21857812880686E-06, runtime 37
+n7 fitness[bso] 6.48953609377873E-06, runtime 38
+n7 fitness[bso] 5.1133909771305E-06, runtime 39
+n7 fitness[bso] 2.5192928468525E-05, runtime 40
+n7 fitness[bso] 3.18639292985528E-05, runtime 41
+n7 fitness[bso] 1.50926287510369E-05, runtime 42
+n7 fitness[bso] 1.40629231605114E-05, runtime 43
+n7 fitness[bso] 1.2956594649248E-05, runtime 44
+n7 fitness[bso] 2.26348488407363E-05, runtime 45
+n7 fitness[bso] 5.8458892058898E-06, runtime 46
+n7 fitness[bso] 1.35975626136271E-05, runtime 47
+n7 fitness[bso] 1.91124658795234E-05, runtime 48
+n7 fitness[bso] 1.30266861164491E-05, runtime 49
+n7 bso count2 3905
+n7 bso count4 901
+n7 50 runs, best fitness 4.80944969534449E-06
+n7 50 runs, median fitness 1.57189333258214E-05
+n7 50 runs, worst fitness 5.37948196044679E-05
+n7 50 runs, best mean 1.87269773134178E-05
+n7 50 runs, variance 1.195996816228E-10
+n7 50 runs, standard deviation 1.09361639354392E-05
+

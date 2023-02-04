@@ -1,0 +1,61 @@
+n5 fitness [bsoos] 4.48403994143809E-08 run 0
+n5 fitness [bsoos] 1.72084643271231E-08 run 1
+n5 fitness [bsoos] 8.77564638910596E-09 run 2
+n5 fitness [bsoos] 5.08464883530735E-08 run 3
+n5 fitness [bsoos] 6.78333301196155E-08 run 4
+n5 fitness [bsoos] 1.13756271069576E-08 run 5
+n5 fitness [bsoos] 4.51837219861417E-08 run 6
+n5 fitness [bsoos] 1.78687369484232E-08 run 7
+n5 fitness [bsoos] 2.38123064114082E-08 run 8
+n5 fitness [bsoos] 2.62733392333847E-08 run 9
+n5 fitness [bsoos] 3.94389789992733E-08 run 10
+n5 fitness [bsoos] 5.62906869450153E-08 run 11
+n5 fitness [bsoos] 5.08740495286375E-08 run 12
+n5 fitness [bsoos] 9.81265842192602E-09 run 13
+n5 fitness [bsoos] 6.62880133006638E-08 run 14
+n5 fitness [bsoos] 2.66175505803101E-08 run 15
+n5 fitness [bsoos] 3.02913508443137E-08 run 16
+n5 fitness [bsoos] 4.03608611532214E-08 run 17
+n5 fitness [bsoos] 4.14353421573921E-08 run 18
+n5 fitness [bsoos] 4.2775271186235E-08 run 19
+n5 fitness [bsoos] 3.5322542016325E-08 run 20
+n5 fitness [bsoos] 8.02985311021409E-08 run 21
+n5 fitness [bsoos] 1.82608360169145E-08 run 22
+n5 fitness [bsoos] 3.41600252893454E-08 run 23
+n5 fitness [bsoos] 6.67723942041065E-08 run 24
+n5 fitness [bsoos] 7.7477380650004E-08 run 25
+n5 fitness [bsoos] 3.86523495432556E-08 run 26
+n5 fitness [bsoos] 1.88040899101738E-08 run 27
+n5 fitness [bsoos] 2.56930850275894E-08 run 28
+n5 fitness [bsoos] 8.76916955716567E-10 run 29
+n5 fitness [bsoos] 1.73377256995622E-08 run 30
+n5 fitness [bsoos] 5.0971268025779E-08 run 31
+n5 fitness [bsoos] 1.340258402871E-08 run 32
+n5 fitness [bsoos] 4.34693268047681E-08 run 33
+n5 fitness [bsoos] 1.7743210917881E-08 run 34
+n5 fitness [bsoos] 1.32189033830166E-07 run 35
+n5 fitness [bsoos] 4.17340297875768E-08 run 36
+n5 fitness [bsoos] 1.89528469585198E-08 run 37
+n5 fitness [bsoos] 3.13489741388118E-08 run 38
+n5 fitness [bsoos] 1.69051779519425E-08 run 39
+n5 fitness [bsoos] 3.77611089064089E-08 run 40
+n5 fitness [bsoos] 1.7527649349286E-08 run 41
+n5 fitness [bsoos] 2.75497651436654E-08 run 42
+n5 fitness [bsoos] 3.6567927977349E-08 run 43
+n5 fitness [bsoos] 4.13191671710944E-08 run 44
+n5 fitness [bsoos] 7.34495855247985E-08 run 45
+n5 fitness [bsoos] 6.37436112227441E-09 run 46
+n5 fitness [bsoos] 7.98572996618674E-09 run 47
+n5 fitness [bsoos] 2.38119559070604E-08 run 48
+n5 fitness [bsoos] 6.99856924843423E-09 run 49
+n5 worstcount 0
+n5 worstcount2 8698
+n5 bsoos count2 133
+n5 bsoos count4 133
+n5 bsoos best fitness 8.76916955716567E-10
+n5 bsoos middle fitness 3.41600252893454E-08
+n5 bsoos worst fitness 1.32189033830166E-07
+n5 bsoos best mean 3.5558419451649E-08
+n5 50 runs, variance 5.72920176495362E-16
+n5 50 runs, standard deviation 2.39357510117264E-08
+

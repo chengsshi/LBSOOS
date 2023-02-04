@@ -1,0 +1,59 @@
+n5 fitness[gpiors] 0.00064543058050609, run 0
+n5 fitness[gpiors] 7.05173106608226E-05, run 1
+n5 fitness[gpiors] 0.0134297115961744, run 2
+n5 fitness[gpiors] 0.0115330002417481, run 3
+n5 fitness[gpiors] 0.000234306224246895, run 4
+n5 fitness[gpiors] 8.47871278305407E-06, run 5
+n5 fitness[gpiors] 0.000236667319057797, run 6
+n5 fitness[gpiors] 6.33824955552642E-05, run 7
+n5 fitness[gpiors] 0.00984124628891851, run 8
+n5 fitness[gpiors] 4.61024703288793E-05, run 9
+n5 fitness[gpiors] 0.00243625654557006, run 10
+n5 fitness[gpiors] 0.00340623781561031, run 11
+n5 fitness[gpiors] 0.0147985334721969, run 12
+n5 fitness[gpiors] 0.00239249985135148, run 13
+n5 fitness[gpiors] 0.000256822268319926, run 14
+n5 fitness[gpiors] 0.000224715439145484, run 15
+n5 fitness[gpiors] 0.000120820456699949, run 16
+n5 fitness[gpiors] 1.99813926686498E-05, run 17
+n5 fitness[gpiors] 0.000378516666550879, run 18
+n5 fitness[gpiors] 0.0108952897743425, run 19
+n5 fitness[gpiors] 0.013898710249027, run 20
+n5 fitness[gpiors] 0.00282219720730541, run 21
+n5 fitness[gpiors] 0.00108578644443977, run 22
+n5 fitness[gpiors] 5.72606216109328E-07, run 23
+n5 fitness[gpiors] 0.000586420792269907, run 24
+n5 fitness[gpiors] 5.85872866800674E-05, run 25
+n5 fitness[gpiors] 6.57792922496986E-05, run 26
+n5 fitness[gpiors] 0.000117714277907389, run 27
+n5 fitness[gpiors] 0.00166403961257588, run 28
+n5 fitness[gpiors] 0.000539031109262705, run 29
+n5 fitness[gpiors] 3.07397023068699E-05, run 30
+n5 fitness[gpiors] 0.0014460488089546, run 31
+n5 fitness[gpiors] 0.00114074238399325, run 32
+n5 fitness[gpiors] 4.55268748867366E-05, run 33
+n5 fitness[gpiors] 0.00019966501082036, run 34
+n5 fitness[gpiors] 0.0023187147517752, run 35
+n5 fitness[gpiors] 0.000356899254524698, run 36
+n5 fitness[gpiors] 0.000425044662387075, run 37
+n5 fitness[gpiors] 0.000918631309311913, run 38
+n5 fitness[gpiors] 0.000431848745535257, run 39
+n5 fitness[gpiors] 0.0010084089070172, run 40
+n5 fitness[gpiors] 0.00695507565715848, run 41
+n5 fitness[gpiors] 6.19793547607106E-05, run 42
+n5 fitness[gpiors] 0.000381396490543088, run 43
+n5 fitness[gpiors] 0.000186635546638281, run 44
+n5 fitness[gpiors] 0.000468062759841903, run 45
+n5 fitness[gpiors] 7.71163364866323E-05, run 46
+n5 fitness[gpiors] 0.00155290596479055, run 47
+n5 fitness[gpiors] 0.00138858683881538, run 48
+n5 fitness[gpiors] 0.00024667660036265, run 49
+n5 gpiors count2 185
+n5 gpiors count4 13
+n5 best fitness 5.72606216109328E-07
+n5 middle fitness 0.000431848745535257
+n5 worst fitness 0.0147985334721969
+n5 50 runs, global best mean 0.00223036123522562
+n5 50 runs, variance 1.58672747096452E-05
+n5 50 runs, standard deviation 0.00398337478900055
+

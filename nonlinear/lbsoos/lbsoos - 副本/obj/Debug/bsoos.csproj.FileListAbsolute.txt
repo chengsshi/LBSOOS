@@ -1,0 +1,38 @@
+C:\Users\cheng\Desktop\bsoos\bsoos\bin\Debug\bsoos.exe.config
+C:\Users\cheng\Desktop\bsoos\bsoos\bin\Debug\bsoos.exe
+C:\Users\cheng\Desktop\bsoos\bsoos\bin\Debug\bsoos.pdb
+C:\Users\cheng\Desktop\bsoos\bsoos\obj\Debug\bsoos.csprojResolveAssemblyReference.cache
+C:\Users\cheng\Desktop\bsoos\bsoos\obj\Debug\bsoos.exe
+C:\Users\cheng\Desktop\bsoos\bsoos\obj\Debug\bsoos.pdb
+D:\programme\2016\memetic\nonlinear\bsoos\bsoos\bin\Debug\bsoos.exe.config
+D:\programme\2016\memetic\nonlinear\bsoos\bsoos\obj\Debug\bsoos.exe
+D:\programme\2016\memetic\nonlinear\bsoos\bsoos\obj\Debug\bsoos.pdb
+D:\programme\2016\memetic\nonlinear\bsoos\bsoos\bin\Debug\bsoos.exe
+D:\programme\2016\memetic\nonlinear\bsoos\bsoos\bin\Debug\bsoos.pdb
+D:\programme\2016\memetic\nonlinear\bsoos\bsoos\obj\Debug\bsoos.csproj.AssemblyReference.cache
+D:\programme\2016\memetic\nonlinear\bsoos\bsoos\obj\Debug\bsoos.csproj.SuggestedBindingRedirects.cache
+D:\programme\2016\memetic\nonlinear\bsoos\bsoos\obj\Debug\bsoos.csproj.CoreCompileInputs.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoos\bsoos\obj\Debug\bsoos.csproj.AssemblyReference.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoos\bsoos\obj\Debug\bsoos.csproj.SuggestedBindingRedirects.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoos\bsoos\obj\Debug\bsoos.csproj.CoreCompileInputs.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoos\bsoos\obj\Debug\bsoos.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoos\bsoos\obj\Debug\bsoos.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoos\bsoos\bin\Debug\bsoos.exe.config
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoos\bsoos\bin\Debug\bsoos.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoos\bsoos\bin\Debug\bsoos.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosnonlinear\bsoos\bin\Debug\bsoos.exe.config
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosnonlinear\bsoos\bin\Debug\bsoos.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosnonlinear\bsoos\bin\Debug\bsoos.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosnonlinear\bsoos\obj\Debug\bsoos.csproj.AssemblyReference.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosnonlinear\bsoos\obj\Debug\bsoos.csproj.SuggestedBindingRedirects.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosnonlinear\bsoos\obj\Debug\bsoos.csproj.CoreCompileInputs.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosnonlinear\bsoos\obj\Debug\bsoos.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosnonlinear\bsoos\obj\Debug\bsoos.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\bsoos\bin\Debug\bsoos.exe.config
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\bsoos\bin\Debug\bsoos.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\bsoos\bin\Debug\bsoos.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\bsoos\obj\Debug\bsoos.csproj.AssemblyReference.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\bsoos\obj\Debug\bsoos.csproj.SuggestedBindingRedirects.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\bsoos\obj\Debug\bsoos.csproj.CoreCompileInputs.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\bsoos\obj\Debug\bsoos.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\bsoosalgorithm\bsoos\obj\Debug\bsoos.pdb

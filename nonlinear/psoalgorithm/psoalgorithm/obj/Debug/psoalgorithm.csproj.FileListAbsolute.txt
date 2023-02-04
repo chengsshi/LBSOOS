@@ -1,0 +1,8 @@
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\psoalgorithm\psoalgorithm\obj\Debug\psoalgorithm.csproj.AssemblyReference.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\psoalgorithm\psoalgorithm\obj\Debug\psoalgorithm.csproj.SuggestedBindingRedirects.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\psoalgorithm\psoalgorithm\obj\Debug\psoalgorithm.csproj.CoreCompileInputs.cache
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\psoalgorithm\psoalgorithm\bin\Debug\psoalgorithm.exe.config
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\psoalgorithm\psoalgorithm\bin\Debug\psoalgorithm.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\psoalgorithm\psoalgorithm\bin\Debug\psoalgorithm.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\psoalgorithm\psoalgorithm\obj\Debug\psoalgorithm.exe
+D:\article\cheng\Multimodal Optimization多模态优化\nonlinear\psoalgorithm\psoalgorithm\obj\Debug\psoalgorithm.pdb

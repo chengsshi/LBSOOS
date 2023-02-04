@@ -1,0 +1,59 @@
+n5 fitness[star] 7.92822838630025E-19, run 0
+n5 fitness[star] 1.12729828239952E-19, run 1
+n5 fitness[star] 0, run 2
+n5 fitness[star] 3.39899498656574E-17, run 3
+n5 fitness[star] 6.0491049834068E-17, run 4
+n5 fitness[star] 0, run 5
+n5 fitness[star] 0, run 6
+n5 fitness[star] 5.29395592033938E-23, run 7
+n5 fitness[star] 0, run 8
+n5 fitness[star] 0, run 9
+n5 fitness[star] 3.95095067773354E-12, run 10
+n5 fitness[star] 3.04931861011548E-20, run 11
+n5 fitness[star] 0, run 12
+n5 fitness[star] 1.52804743684676E-18, run 13
+n5 fitness[star] 0, run 14
+n5 fitness[star] 2.64697796016969E-23, run 15
+n5 fitness[star] 0, run 16
+n5 fitness[star] 0, run 17
+n5 fitness[star] 0, run 18
+n5 fitness[star] 0, run 19
+n5 fitness[star] 2.56227466544426E-20, run 20
+n5 fitness[star] 0, run 21
+n5 fitness[star] 6.35274710440725E-22, run 22
+n5 fitness[star] 1.23489462775796E-18, run 23
+n5 fitness[star] 0, run 24
+n5 fitness[star] 0, run 25
+n5 fitness[star] 0, run 26
+n5 fitness[star] 4.13041534805811E-16, run 27
+n5 fitness[star] 5.29395592033938E-23, run 28
+n5 fitness[star] 5.82335151237331E-22, run 29
+n5 fitness[star] 0, run 30
+n5 fitness[star] 3.13832324402619E-20, run 31
+n5 fitness[star] 0, run 32
+n5 fitness[star] 0, run 33
+n5 fitness[star] 0, run 34
+n5 fitness[star] 0, run 35
+n5 fitness[star] 8.38630380417538E-17, run 36
+n5 fitness[star] 0, run 37
+n5 fitness[star] 5.55111512312578E-16, run 38
+n5 fitness[star] 0, run 39
+n5 fitness[star] 6.31568941296488E-20, run 40
+n5 fitness[star] 0, run 41
+n5 fitness[star] 0, run 42
+n5 fitness[star] 0, run 43
+n5 fitness[star] 0, run 44
+n5 fitness[star] 2.25156315480923E-07, run 45
+n5 fitness[star] 0, run 46
+n5 fitness[star] 0, run 47
+n5 fitness[star] 3.19754937588498E-20, run 48
+n5 fitness[star] 0, run 49
+n5 star count2 59
+n5 star count4 50
+n5 star best fitness 0
+n5 star middle fitness 0
+n5 star worst fitness 2.25156315480923E-07
+n5 50 runs, global star best mean 4.50320535163901E-09
+n5 50 runs, variance 9.93628469892071E-16
+n5 50 runs, standard deviation 3.1521872880463E-08
+

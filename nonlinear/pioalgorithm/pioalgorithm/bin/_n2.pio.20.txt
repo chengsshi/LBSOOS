@@ -1,0 +1,59 @@
+n2 fitness[pio] 0.692273074396222, run 0
+n2 fitness[pio] 0.760206566478288, run 1
+n2 fitness[pio] 0.650251356016645, run 2
+n2 fitness[pio] 0.603455511883954, run 3
+n2 fitness[pio] 0.87421263071624, run 4
+n2 fitness[pio] 0.742588983071231, run 5
+n2 fitness[pio] 0.655961878506199, run 6
+n2 fitness[pio] 0.680719556663605, run 7
+n2 fitness[pio] 0.791854747395586, run 8
+n2 fitness[pio] 0.642240788320675, run 9
+n2 fitness[pio] 0.567744934767169, run 10
+n2 fitness[pio] 0.640848034784074, run 11
+n2 fitness[pio] 0.565419496694873, run 12
+n2 fitness[pio] 0.699254036501059, run 13
+n2 fitness[pio] 0.771531663033712, run 14
+n2 fitness[pio] 0.559154326929632, run 15
+n2 fitness[pio] 0.692905023202421, run 16
+n2 fitness[pio] 0.797695580283763, run 17
+n2 fitness[pio] 0.598263896252585, run 18
+n2 fitness[pio] 0.791920571813085, run 19
+n2 fitness[pio] 0.734198373853931, run 20
+n2 fitness[pio] 0.838098917903759, run 21
+n2 fitness[pio] 0.640048596849004, run 22
+n2 fitness[pio] 0.895804382499941, run 23
+n2 fitness[pio] 0.593124228154592, run 24
+n2 fitness[pio] 0.664792787031694, run 25
+n2 fitness[pio] 0.815132471231629, run 26
+n2 fitness[pio] 0.606204128411856, run 27
+n2 fitness[pio] 0.661617257595988, run 28
+n2 fitness[pio] 0.7767631765261, run 29
+n2 fitness[pio] 0.795694561829366, run 30
+n2 fitness[pio] 0.79599449348044, run 31
+n2 fitness[pio] 0.768661478991535, run 32
+n2 fitness[pio] 0.776761010406459, run 33
+n2 fitness[pio] 0.705181268595886, run 34
+n2 fitness[pio] 0.828153077314334, run 35
+n2 fitness[pio] 0.809561085654899, run 36
+n2 fitness[pio] 0.57804359893867, run 37
+n2 fitness[pio] 0.590746575678039, run 38
+n2 fitness[pio] 0.505417819112602, run 39
+n2 fitness[pio] 0.965746996946501, run 40
+n2 fitness[pio] 0.709995258313327, run 41
+n2 fitness[pio] 0.890039257702783, run 42
+n2 fitness[pio] 0.624640733165879, run 43
+n2 fitness[pio] 0.82238969649275, run 44
+n2 fitness[pio] 0.87323374724614, run 45
+n2 fitness[pio] 0.671681100717926, run 46
+n2 fitness[pio] 0.777010208198082, run 47
+n2 fitness[pio] 0.79988105857736, run 48
+n2 fitness[pio] 0.850459632678693, run 49
+n2 pio count2 0
+n2 pio count4 0
+n2 pio best fitness 0.505417819112602
+n2 pio middle fitness 0.734198373853931
+n2 pio worst fitness 0.965746996946501
+n2 50 runs, pio global best mean 0.722871592756223
+n2 50 runs, variance 0.0110247194984536
+n2 50 runs, standard deviation 0.104998664269855
+

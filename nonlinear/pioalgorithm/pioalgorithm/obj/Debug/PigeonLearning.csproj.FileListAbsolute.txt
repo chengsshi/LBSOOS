@@ -1,0 +1,7 @@
+E:\OneDrive\Desktop\PigeonLearning\PigeonLearning\bin\Debug\PigeonLearning.exe.config
+E:\OneDrive\Desktop\PigeonLearning\PigeonLearning\bin\Debug\PigeonLearning.exe
+E:\OneDrive\Desktop\PigeonLearning\PigeonLearning\bin\Debug\PigeonLearning.pdb
+E:\OneDrive\Desktop\PigeonLearning\PigeonLearning\obj\Debug\PigeonLearning.csprojAssemblyReference.cache
+E:\OneDrive\Desktop\PigeonLearning\PigeonLearning\obj\Debug\PigeonLearning.csproj.CoreCompileInputs.cache
+E:\OneDrive\Desktop\PigeonLearning\PigeonLearning\obj\Debug\PigeonLearning.exe
+E:\OneDrive\Desktop\PigeonLearning\PigeonLearning\obj\Debug\PigeonLearning.pdb

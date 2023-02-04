@@ -1,0 +1,61 @@
+n3 fitness [bsoos] 1.21110685369352E-09 run 0
+n3 fitness [bsoos] 2.55936905002585E-09 run 1
+n3 fitness [bsoos] 3.25929572220218E-09 run 2
+n3 fitness [bsoos] 2.95665084082408E-09 run 3
+n3 fitness [bsoos] 1.6403152169886E-09 run 4
+n3 fitness [bsoos] 1.20679821691283E-09 run 5
+n3 fitness [bsoos] 4.77191564041135E-09 run 6
+n3 fitness [bsoos] 7.66265830688802E-09 run 7
+n3 fitness [bsoos] 3.74478259512756E-09 run 8
+n3 fitness [bsoos] 1.82521053826434E-09 run 9
+n3 fitness [bsoos] 4.15641229767338E-09 run 10
+n3 fitness [bsoos] 1.26467147865128E-09 run 11
+n3 fitness [bsoos] 5.14013132546844E-09 run 12
+n3 fitness [bsoos] 5.70057351323428E-09 run 13
+n3 fitness [bsoos] 5.64027791138955E-09 run 14
+n3 fitness [bsoos] 1.01781454930894E-08 run 15
+n3 fitness [bsoos] 8.58413851112516E-09 run 16
+n3 fitness [bsoos] 1.59683222200613E-09 run 17
+n3 fitness [bsoos] 2.26387758539559E-09 run 18
+n3 fitness [bsoos] 4.16503276312596E-09 run 19
+n3 fitness [bsoos] 1.44812251079429E-09 run 20
+n3 fitness [bsoos] 1.73211089915526E-09 run 21
+n3 fitness [bsoos] 2.312012692407E-09 run 22
+n3 fitness [bsoos] 3.03912444580234E-09 run 23
+n3 fitness [bsoos] 4.06765798821596E-09 run 24
+n3 fitness [bsoos] 1.92571858459445E-09 run 25
+n3 fitness [bsoos] 1.63425717403243E-10 run 26
+n3 fitness [bsoos] 9.01607477565847E-09 run 27
+n3 fitness [bsoos] 6.10262153771152E-09 run 28
+n3 fitness [bsoos] 2.30616592489241E-09 run 29
+n3 fitness [bsoos] 1.35969080439224E-09 run 30
+n3 fitness [bsoos] 3.75816600062251E-09 run 31
+n3 fitness [bsoos] 5.83246506646873E-09 run 32
+n3 fitness [bsoos] 1.17542175992469E-09 run 33
+n3 fitness [bsoos] 4.40903047405072E-09 run 34
+n3 fitness [bsoos] 5.19984355573655E-09 run 35
+n3 fitness [bsoos] 1.08897185713275E-09 run 36
+n3 fitness [bsoos] 4.60378762889846E-09 run 37
+n3 fitness [bsoos] 1.19805276810325E-09 run 38
+n3 fitness [bsoos] 2.49105669425376E-09 run 39
+n3 fitness [bsoos] 1.69204217304042E-09 run 40
+n3 fitness [bsoos] 3.22277415865102E-09 run 41
+n3 fitness [bsoos] 3.09374970086651E-09 run 42
+n3 fitness [bsoos] 1.99833360969848E-09 run 43
+n3 fitness [bsoos] 5.51333356746397E-09 run 44
+n3 fitness [bsoos] 4.94327517808202E-09 run 45
+n3 fitness [bsoos] 6.74138188073997E-09 run 46
+n3 fitness [bsoos] 5.67071223311899E-10 run 47
+n3 fitness [bsoos] 2.02737593379965E-09 run 48
+n3 fitness [bsoos] 2.22194068699721E-09 run 49
+n3 worstcount 0
+n3 worstcount2 9963
+n3 bsoos count2 314
+n3 bsoos count4 314
+n3 bsoos best fitness 1.63425717403243E-10
+n3 bsoos middle fitness 3.03912444580234E-09
+n3 bsoos worst fitness 1.01781454930894E-08
+n3 bsoos best mean 3.49557991762734E-09
+n3 50 runs, variance 5.18940230606394E-18
+n3 50 runs, standard deviation 2.27802596694242E-09
+

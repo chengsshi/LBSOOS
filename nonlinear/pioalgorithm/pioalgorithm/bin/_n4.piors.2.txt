@@ -1,0 +1,59 @@
+n4 fitness[piors] 0.00817202593816624, run 0
+n4 fitness[piors] 0.00621110454669316, run 1
+n4 fitness[piors] 1.22767657151357E-08, run 2
+n4 fitness[piors] 0.00687957855344301, run 3
+n4 fitness[piors] 0.00548719074694698, run 4
+n4 fitness[piors] 0.000664862085199447, run 5
+n4 fitness[piors] 5.33117994194754E-12, run 6
+n4 fitness[piors] 0.00316177360980663, run 7
+n4 fitness[piors] 0.00095215658244896, run 8
+n4 fitness[piors] 0.00128201200667544, run 9
+n4 fitness[piors] 0.00673824973561854, run 10
+n4 fitness[piors] 0.00150206073166237, run 11
+n4 fitness[piors] 0.00126658983872863, run 12
+n4 fitness[piors] 0.0156010491258272, run 13
+n4 fitness[piors] 0.00479896670340751, run 14
+n4 fitness[piors] 0.000321569159361212, run 15
+n4 fitness[piors] 0.00372201025839825, run 16
+n4 fitness[piors] 0.000724761298707688, run 17
+n4 fitness[piors] 0.00163991352255288, run 18
+n4 fitness[piors] 0.0306520210940145, run 19
+n4 fitness[piors] 9.07126466317409E-05, run 20
+n4 fitness[piors] 0.0153304969002704, run 21
+n4 fitness[piors] 0.00188724898584325, run 22
+n4 fitness[piors] 0.00855233532481314, run 23
+n4 fitness[piors] 0.00257149214077013, run 24
+n4 fitness[piors] 0.0021964483022382, run 25
+n4 fitness[piors] 0.000544259467575081, run 26
+n4 fitness[piors] 0.0165176611062121, run 27
+n4 fitness[piors] 0.00325334293458035, run 28
+n4 fitness[piors] 0.01396401646295, run 29
+n4 fitness[piors] 0.00347649568881125, run 30
+n4 fitness[piors] 0.0120189229067287, run 31
+n4 fitness[piors] 0.000336231934718101, run 32
+n4 fitness[piors] 0.0225903055643882, run 33
+n4 fitness[piors] 0.0040343125932677, run 34
+n4 fitness[piors] 0.00096154162280071, run 35
+n4 fitness[piors] 0.00745919859919331, run 36
+n4 fitness[piors] 0.0104102736507806, run 37
+n4 fitness[piors] 0.00165823957166256, run 38
+n4 fitness[piors] 0.0133097616946966, run 39
+n4 fitness[piors] 0.00408332879480267, run 40
+n4 fitness[piors] 0.00109899085587428, run 41
+n4 fitness[piors] 0.00133983585669051, run 42
+n4 fitness[piors] 0.0131747450230184, run 43
+n4 fitness[piors] 0.00505416419237203, run 44
+n4 fitness[piors] 0.00566377930580975, run 45
+n4 fitness[piors] 0.00942034597278796, run 46
+n4 fitness[piors] 0.000851129632723713, run 47
+n4 fitness[piors] 0.0113801611567159, run 48
+n4 fitness[piors] 0.017856283663008, run 49
+n4 piors count2 77
+n4 piors count4 3
+n4 best fitness 5.33117994194754E-12
+n4 middle fitness 0.0040343125932677
+n4 worst fitness 0.0306520210940145
+n4 50 runs, global best mean 0.00621727940744982
+n4 50 runs, variance 4.30825744846217E-05
+n4 50 runs, standard deviation 0.0065637317498982
+

@@ -1,0 +1,8 @@
+D:\article\cheng\Multimodal Optimization多模态优化\2022\bsononlinear\bsononlinear\obj\Debug\bsononlinear.csproj.AssemblyReference.cache
+D:\article\cheng\Multimodal Optimization多模态优化\2022\bsononlinear\bsononlinear\obj\Debug\bsononlinear.csproj.SuggestedBindingRedirects.cache
+D:\article\cheng\Multimodal Optimization多模态优化\2022\bsononlinear\bsononlinear\obj\Debug\bsononlinear.csproj.CoreCompileInputs.cache
+D:\article\cheng\Multimodal Optimization多模态优化\2022\bsononlinear\bsononlinear\bin\Debug\BSOnonlinear.exe.config
+D:\article\cheng\Multimodal Optimization多模态优化\2022\bsononlinear\bsononlinear\bin\Debug\BSOnonlinear.exe
+D:\article\cheng\Multimodal Optimization多模态优化\2022\bsononlinear\bsononlinear\bin\Debug\BSOnonlinear.pdb
+D:\article\cheng\Multimodal Optimization多模态优化\2022\bsononlinear\bsononlinear\obj\Debug\BSOnonlinear.exe
+D:\article\cheng\Multimodal Optimization多模态优化\2022\bsononlinear\bsononlinear\obj\Debug\BSOnonlinear.pdb

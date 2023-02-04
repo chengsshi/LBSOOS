@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "psononlinear", "psononlinear\psononlinear.csproj", "{706BE978-5CB8-46E5-8F1D-617871FF4156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706BE978-5CB8-46E5-8F1D-617871FF4156}.Debug|x86.ActiveCfg = Debug|x86
+		{706BE978-5CB8-46E5-8F1D-617871FF4156}.Debug|x86.Build.0 = Debug|x86
+		{706BE978-5CB8-46E5-8F1D-617871FF4156}.Release|x86.ActiveCfg = Release|x86
+		{706BE978-5CB8-46E5-8F1D-617871FF4156}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

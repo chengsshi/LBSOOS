@@ -1,0 +1,59 @@
+n5 fitness[pio] 0, run 0
+n5 fitness[pio] 0, run 1
+n5 fitness[pio] 0, run 2
+n5 fitness[pio] 0, run 3
+n5 fitness[pio] 0, run 4
+n5 fitness[pio] 0, run 5
+n5 fitness[pio] 0, run 6
+n5 fitness[pio] 0, run 7
+n5 fitness[pio] 0, run 8
+n5 fitness[pio] 0, run 9
+n5 fitness[pio] 0, run 10
+n5 fitness[pio] 0, run 11
+n5 fitness[pio] 0, run 12
+n5 fitness[pio] 0, run 13
+n5 fitness[pio] 0, run 14
+n5 fitness[pio] 0, run 15
+n5 fitness[pio] 0, run 16
+n5 fitness[pio] 0, run 17
+n5 fitness[pio] 0, run 18
+n5 fitness[pio] 0, run 19
+n5 fitness[pio] 0, run 20
+n5 fitness[pio] 0, run 21
+n5 fitness[pio] 0, run 22
+n5 fitness[pio] 0, run 23
+n5 fitness[pio] 0, run 24
+n5 fitness[pio] 0, run 25
+n5 fitness[pio] 0, run 26
+n5 fitness[pio] 0, run 27
+n5 fitness[pio] 0, run 28
+n5 fitness[pio] 0, run 29
+n5 fitness[pio] 0, run 30
+n5 fitness[pio] 0, run 31
+n5 fitness[pio] 0, run 32
+n5 fitness[pio] 0, run 33
+n5 fitness[pio] 0, run 34
+n5 fitness[pio] 0, run 35
+n5 fitness[pio] 0, run 36
+n5 fitness[pio] 0, run 37
+n5 fitness[pio] 0, run 38
+n5 fitness[pio] 0, run 39
+n5 fitness[pio] 0, run 40
+n5 fitness[pio] 0, run 41
+n5 fitness[pio] 0, run 42
+n5 fitness[pio] 0, run 43
+n5 fitness[pio] 0, run 44
+n5 fitness[pio] 0, run 45
+n5 fitness[pio] 0, run 46
+n5 fitness[pio] 0, run 47
+n5 fitness[pio] 0, run 48
+n5 fitness[pio] 0, run 49
+n5 pio count2 50
+n5 pio count4 50
+n5 pio best fitness 0
+n5 pio middle fitness 0
+n5 pio worst fitness 0
+n5 50 runs, pio global best mean 0
+n5 50 runs, variance 0
+n5 50 runs, standard deviation 0
+

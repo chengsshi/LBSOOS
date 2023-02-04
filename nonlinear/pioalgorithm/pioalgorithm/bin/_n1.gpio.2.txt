@@ -1,0 +1,59 @@
+n1 fitness[gpio] 1.88060678141255E-12, run 0
+n1 fitness[gpio] 1.11022302462516E-16, run 1
+n1 fitness[gpio] 1.11022302462516E-16, run 2
+n1 fitness[gpio] 1.11022302462516E-16, run 3
+n1 fitness[gpio] 1.66533453693773E-15, run 4
+n1 fitness[gpio] 1.59251554887607E-06, run 5
+n1 fitness[gpio] 1.11022302462516E-16, run 6
+n1 fitness[gpio] 1.29803945370099E-11, run 7
+n1 fitness[gpio] 2.79564227323448E-09, run 8
+n1 fitness[gpio] 7.38641370290338E-11, run 9
+n1 fitness[gpio] 2.21429854452282E-08, run 10
+n1 fitness[gpio] 2.98371327644986E-11, run 11
+n1 fitness[gpio] 1.8117960798314E-08, run 12
+n1 fitness[gpio] 3.45025119585785E-11, run 13
+n1 fitness[gpio] 1.11022302462516E-16, run 14
+n1 fitness[gpio] 1.11022302462516E-16, run 15
+n1 fitness[gpio] 1.11022302462516E-16, run 16
+n1 fitness[gpio] 1.11022302462516E-16, run 17
+n1 fitness[gpio] 1.11022302462516E-16, run 18
+n1 fitness[gpio] 1.11022302462516E-16, run 19
+n1 fitness[gpio] 2.99082980603771E-12, run 20
+n1 fitness[gpio] 5.94324415137404E-06, run 21
+n1 fitness[gpio] 1.11022302462516E-16, run 22
+n1 fitness[gpio] 8.25566460027627E-06, run 23
+n1 fitness[gpio] 1.11022302462516E-16, run 24
+n1 fitness[gpio] 1.11022302462516E-16, run 25
+n1 fitness[gpio] 5.72254971962227E-05, run 26
+n1 fitness[gpio] 3.05944158895954E-12, run 27
+n1 fitness[gpio] 2.49420539388812E-06, run 28
+n1 fitness[gpio] 1.11022302462516E-16, run 29
+n1 fitness[gpio] 1.05360165036927E-13, run 30
+n1 fitness[gpio] 1.11022302462516E-16, run 31
+n1 fitness[gpio] 5.36187905186836E-09, run 32
+n1 fitness[gpio] 7.23652138212572E-10, run 33
+n1 fitness[gpio] 2.23123850506823E-08, run 34
+n1 fitness[gpio] 6.10622663543836E-15, run 35
+n1 fitness[gpio] 1.81694968248713E-06, run 36
+n1 fitness[gpio] 1.93948301863145E-10, run 37
+n1 fitness[gpio] 1.12826341158723E-07, run 38
+n1 fitness[gpio] 1.94184157642496E-08, run 39
+n1 fitness[gpio] 1.11022302462516E-16, run 40
+n1 fitness[gpio] 1.11022302462516E-16, run 41
+n1 fitness[gpio] 1.41763875893819E-06, run 42
+n1 fitness[gpio] 1.11022302462516E-16, run 43
+n1 fitness[gpio] 1.38849459707657E-08, run 44
+n1 fitness[gpio] 1.11022302462516E-16, run 45
+n1 fitness[gpio] 2.22044604925031E-16, run 46
+n1 fitness[gpio] 4.06726163859616E-09, run 47
+n1 fitness[gpio] 1.11022302462516E-16, run 48
+n1 fitness[gpio] 1.11022302462516E-16, run 49
+n1 gpio count2 50
+n1 gpio count4 50
+n1 gPIO best fitness 1.11022302462516E-16
+n1 gPIO middle fitness 1.88060678141255E-12
+n1 gPIO worst fitness 5.72254971962227E-05
+n1 50 runs, gPIO global best mean 1.57935439960788E-06
+n1 50 runs, variance 6.53520100854697E-11
+n1 50 runs, standard deviation 8.08405901051382E-06
+

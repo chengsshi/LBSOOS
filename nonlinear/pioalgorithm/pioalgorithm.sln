@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pioalgorithm", "pioalgorithm\pioalgorithm.csproj", "{21FBF3A9-7F39-4902-9815-E6D537C466FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21FBF3A9-7F39-4902-9815-E6D537C466FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FBF3A9-7F39-4902-9815-E6D537C466FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FBF3A9-7F39-4902-9815-E6D537C466FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FBF3A9-7F39-4902-9815-E6D537C466FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F09557-7737-443C-964E-D5E5310FBAB5}
+	EndGlobalSection
+EndGlobal

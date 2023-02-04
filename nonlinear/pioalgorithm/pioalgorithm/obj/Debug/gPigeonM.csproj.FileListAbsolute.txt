@@ -1,0 +1,7 @@
+D:\article\cheng\2021\pending\gpigeon\gPigeonM\gPigeonM\bin\Debug\gPigeonM.exe.config
+D:\article\cheng\2021\pending\gpigeon\gPigeonM\gPigeonM\bin\Debug\gPigeonM.exe
+D:\article\cheng\2021\pending\gpigeon\gPigeonM\gPigeonM\bin\Debug\gPigeonM.pdb
+D:\article\cheng\2021\pending\gpigeon\gPigeonM\gPigeonM\obj\Debug\gPigeonM.csprojAssemblyReference.cache
+D:\article\cheng\2021\pending\gpigeon\gPigeonM\gPigeonM\obj\Debug\gPigeonM.csproj.CoreCompileInputs.cache
+D:\article\cheng\2021\pending\gpigeon\gPigeonM\gPigeonM\obj\Debug\gPigeonM.exe
+D:\article\cheng\2021\pending\gpigeon\gPigeonM\gPigeonM\obj\Debug\gPigeonM.pdb

@@ -1,0 +1,59 @@
+n7 fitness[ring] 3.93075346421535E-06, run 0
+n7 fitness[ring] 7.3042991958707E-09, run 1
+n7 fitness[ring] 1.71114645677863E-09, run 2
+n7 fitness[ring] 9.9659482786755E-08, run 3
+n7 fitness[ring] 1.38437723085533E-11, run 4
+n7 fitness[ring] 4.10589642390942E-09, run 5
+n7 fitness[ring] 5.90763616200579E-08, run 6
+n7 fitness[ring] 2.0547078689846E-11, run 7
+n7 fitness[ring] 9.30162107840166E-08, run 8
+n7 fitness[ring] 8.39002202556156E-10, run 9
+n7 fitness[ring] 3.09970245036699E-08, run 10
+n7 fitness[ring] 1.8778074456682E-08, run 11
+n7 fitness[ring] 3.03857988583758E-09, run 12
+n7 fitness[ring] 4.06331726362648E-10, run 13
+n7 fitness[ring] 7.19725478462732E-08, run 14
+n7 fitness[ring] 1.85494246667216E-07, run 15
+n7 fitness[ring] 1.9015483077034E-08, run 16
+n7 fitness[ring] 1.85401899892227E-08, run 17
+n7 fitness[ring] 3.14870067602546E-07, run 18
+n7 fitness[ring] 7.15169936588063E-07, run 19
+n7 fitness[ring] 1.18150996299357E-07, run 20
+n7 fitness[ring] 2.62002011388044E-07, run 21
+n7 fitness[ring] 3.56349874465916E-07, run 22
+n7 fitness[ring] 2.75648134084199E-12, run 23
+n7 fitness[ring] 1.64359975814702E-11, run 24
+n7 fitness[ring] 7.86727860700158E-12, run 25
+n7 fitness[ring] 6.65206783688108E-11, run 26
+n7 fitness[ring] 3.50853858068524E-07, run 27
+n7 fitness[ring] 1.09444164869742E-10, run 28
+n7 fitness[ring] 3.74454348789817E-09, run 29
+n7 fitness[ring] 4.52699650806762E-09, run 30
+n7 fitness[ring] 7.12670361712771E-08, run 31
+n7 fitness[ring] 1.03957093613749E-07, run 32
+n7 fitness[ring] 7.62582499201305E-10, run 33
+n7 fitness[ring] 7.46720303201147E-13, run 34
+n7 fitness[ring] 2.73410897896138E-11, run 35
+n7 fitness[ring] 1.76932394085077E-14, run 36
+n7 fitness[ring] 5.42812988703453E-09, run 37
+n7 fitness[ring] 1.51350935695448E-08, run 38
+n7 fitness[ring] 1.94653431151478E-08, run 39
+n7 fitness[ring] 2.7610544058542E-09, run 40
+n7 fitness[ring] 3.59095787031745E-12, run 41
+n7 fitness[ring] 6.30277030547381E-07, run 42
+n7 fitness[ring] 8.0964453523401E-11, run 43
+n7 fitness[ring] 1.27081938634105E-06, run 44
+n7 fitness[ring] 1.35409157823478E-09, run 45
+n7 fitness[ring] 3.36693168480464E-08, run 46
+n7 fitness[ring] 2.42390572449216E-08, run 47
+n7 fitness[ring] 1.39250406943031E-12, run 48
+n7 fitness[ring] 5.79647217910734E-09, run 49
+n7 ring count2 1608
+n7 ring count4 490
+n7 50 runs, local ring best fitness 1.76932394085077E-14
+n7 50 runs, local ring middle fitness 7.3042991958707E-09
+n7 50 runs, local ring worst fitness 3.93075346421535E-06
+n7 50 runs, local ring best mean 1.77113195662342E-07
+n7 50 runs, variance 3.38399725117906E-13
+n7 50 runs, standard deviation 5.81721346623885E-07
+

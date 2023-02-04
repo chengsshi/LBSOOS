@@ -1,0 +1,59 @@
+n3 fitness[ring] 0, run 0
+n3 fitness[ring] 0, run 1
+n3 fitness[ring] 0, run 2
+n3 fitness[ring] 0, run 3
+n3 fitness[ring] 0, run 4
+n3 fitness[ring] 0, run 5
+n3 fitness[ring] 0, run 6
+n3 fitness[ring] 0, run 7
+n3 fitness[ring] 1.11022302462516E-16, run 8
+n3 fitness[ring] 0, run 9
+n3 fitness[ring] 0, run 10
+n3 fitness[ring] 0, run 11
+n3 fitness[ring] 0, run 12
+n3 fitness[ring] 0, run 13
+n3 fitness[ring] 0, run 14
+n3 fitness[ring] 0, run 15
+n3 fitness[ring] 0, run 16
+n3 fitness[ring] 0, run 17
+n3 fitness[ring] 0, run 18
+n3 fitness[ring] 0, run 19
+n3 fitness[ring] 0, run 20
+n3 fitness[ring] 0, run 21
+n3 fitness[ring] 0, run 22
+n3 fitness[ring] 0, run 23
+n3 fitness[ring] 2.22044604925031E-16, run 24
+n3 fitness[ring] 0, run 25
+n3 fitness[ring] 0, run 26
+n3 fitness[ring] 0, run 27
+n3 fitness[ring] 0, run 28
+n3 fitness[ring] 0, run 29
+n3 fitness[ring] 0, run 30
+n3 fitness[ring] 0, run 31
+n3 fitness[ring] 0, run 32
+n3 fitness[ring] 0, run 33
+n3 fitness[ring] 1.20799870439736E-16, run 34
+n3 fitness[ring] 0, run 35
+n3 fitness[ring] 0, run 36
+n3 fitness[ring] 0, run 37
+n3 fitness[ring] 0, run 38
+n3 fitness[ring] 2.22044604925031E-16, run 39
+n3 fitness[ring] 0, run 40
+n3 fitness[ring] 7.19674233946281E-17, run 41
+n3 fitness[ring] 0, run 42
+n3 fitness[ring] 0, run 43
+n3 fitness[ring] 1.11022302462516E-16, run 44
+n3 fitness[ring] 0, run 45
+n3 fitness[ring] 0, run 46
+n3 fitness[ring] 1.11022302462516E-16, run 47
+n3 fitness[ring] 0, run 48
+n3 fitness[ring] 0, run 49
+n3 ring count2 473
+n3 ring count4 438
+n3 50 runs, local ring best fitness 0
+n3 50 runs, local ring middle fitness 0
+n3 50 runs, local ring worst fitness 2.22044604925031E-16
+n3 50 runs, local ring best mean 1.93984682214395E-17
+n3 50 runs, variance 2.7308471669254E-33
+n3 50 runs, standard deviation 5.22575082349456E-17
+
